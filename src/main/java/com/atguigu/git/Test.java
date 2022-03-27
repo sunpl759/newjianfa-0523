@@ -6,4 +6,11 @@ package com.atguigu.git;
  * @create 2022-03-27 21:37
  */
 public class Test {
+
+    public static void main(String[] args) {
+
+
+
+    }
+
 }
