@@ -12,8 +12,6 @@ public class Dugujiujian {
         System.out.println("紫霞神功");
         System.out.println("独孤九剑");
         System.out.println("辟邪剑法");
-        System.out.println(1);
-        System.out.println(2);
 
     }
 
